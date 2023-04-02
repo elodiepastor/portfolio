@@ -1,3 +1,8 @@
+body {
+    background: black;
+    color: white;
+}
+
 .center {
     margin: 0 auto;
     width: fit-content;
@@ -6,4 +11,12 @@
 .flex {
     gap: 1em;
     display: flex;
+}
+
+p {
+    font-family: 'Roboto Mono', monospace;
+}
+
+h1, h2, h3, h4 {
+   font-family: 'Rubik Mono One', sans-serif; 
 }
